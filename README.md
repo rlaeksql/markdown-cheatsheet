@@ -2,29 +2,29 @@ Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
 - - - - 
-# Heading 1 #
+# 제목 1 #
 
-    Markup :  # Heading 1 #
+    Markup :  # 제목 1 #
 
     -OR-
 
     Markup :  ============= (below H1 text)
 
-## Heading 2 ##
+## 제목 2 ##
 
-    Markup :  ## Heading 2 ##
+    Markup :  ## 제목 2 ##
 
     -OR-
 
     Markup: --------------- (below H2 text)
 
-### Heading 3 ###
+### 제목 3 ###
 
-    Markup :  ### Heading 3 ###
+    Markup :  ### 제목 3 ###
 
-#### Heading 4 ####
+#### 제목 4 ####
 
-    Markup :  #### Heading 4 ####
+    Markup :  #### 제목 4 ####
 
 
 Common text
@@ -51,9 +51,9 @@ ___Strong emphasized text___
 
     Markup :  [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
 
-[heading-1](#heading-1 "Goto heading-1")
+[제목-1](#제목-1 "Goto 제목-1")
     
-    Markup: [heading-1](#heading-1 "Goto heading-1")
+    Markup: [제목-1](#제목-1 "Goto 제목-1")
 
 Table, like this one :
 
